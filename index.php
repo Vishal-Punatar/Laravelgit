@@ -4,4 +4,5 @@
     <table>
         <tr>ID</tr>
         <tr>NAME</tr>
+        <tr>EMAIL</tr>
     </table>
